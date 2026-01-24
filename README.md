@@ -120,9 +120,10 @@ frontend purposeful and minimal.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+</picture>
 
 ---
 
