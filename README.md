@@ -77,7 +77,7 @@ frontend purposeful and minimal.
 <h2>Connect</h2>
 
 <p align="center">
-  <a href="https://aakashgupta02.vercel.app">
+  <a href="https://aakashgupta02.is-a.dev">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aakash-gupta-5a337928b">
