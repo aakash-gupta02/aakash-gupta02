@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aakash+Gupta;Backend-Heavy+Full-Stack+Developer;MERN+%2B+Next.js+%7C+Clean+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aakash+Gupta;Backend-Heavy+Full-Stack+Developer;MERN+%2B+Next.js+%7C+Clean+Architecture" />
 </div>
 
 <p align="center">
@@ -7,74 +7,44 @@
   <img src="https://img.shields.io/github/followers/aakash-gupta02?label=Followers&style=social" />
 </p>
 
-<hr />
+---
 
-<h2>About Me</h2>
+## 👋 About Me
 
-<p>
-Backend-heavy full-stack developer focused on building scalable systems using the MERN stack and Next.js.
-I design clean backend architectures, well-structured APIs, and efficient data flows, while keeping the
-frontend purposeful and minimal.
-</p>
+Backend-heavy full-stack developer focused on building **scalable, maintainable systems** using **MERN** and **Next.js**.  
+I prioritize **clean architecture, API design, and data flow**, keeping the frontend minimal and purposeful.
 
-<ul>
-  <li>Backend-first mindset with MERN and Next.js</li>
-  <li>Strong focus on clean architecture and system design</li>
-  <li>API-driven development and data modeling</li>
-  <li>Performance, scalability, and maintainability</li>
-</ul>
+- Backend-first mindset
+- Clean architecture & modular systems
+- API-driven development
+- Performance & scalability focused
 
-<hr />
+---
 
-<h2>Tech Stack</h2>
+## 🧠 Tech Stack
 
-<h3>Core Stack</h3>
-<ul>
-  <li>JavaScript, TypeScript</li>
-  <li>Node.js, Express.js</li>
-  <li>React, Next.js</li>
-  <li>MongoDB</li>
-</ul>
+<table>
+  <tr>
+    <td valign="top"><strong>Core</strong></td>
+    <td>JavaScript · TypeScript · Node.js · Express.js · React · Next.js · MongoDB</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Backend</strong></td>
+    <td>REST APIs · Auth (JWT / RBAC) · Clean Architecture · Data Modeling · Query Optimization</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Frontend</strong></td>
+    <td>Tailwind CSS · Component-driven UI · Redux · Context API</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Workflow</strong></td>
+    <td>Git · GitHub · Environment Configs · Postman</td>
+  </tr>
+</table>
 
-<h3>Backend & Architecture</h3>
-<ul>
-  <li>REST API design</li>
-  <li>Authentication & Authorization</li>
-  <li>Clean Architecture</li>
-  <li>Modular backend structure</li>
-  <li>Query & performance optimization</li>
-</ul>
+---
 
-<h3>Frontend (Supporting)</h3>
-<ul>
-  <li>Tailwind CSS</li>
-  <li>Component-driven UI</li>
-  <li>State management (Redux / Context)</li>
-</ul>
-
-<h3>Dev Workflow</h3>
-<ul>
-  <li>Git & GitHub</li>
-  <li>Environment-based configuration</li>
-  <li>API testing with Postman</li>
-</ul>
-
-<hr />
-
-<h2>GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakash-gupta02&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash-gupta02&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-gupta02&theme=radical&hide_border=true" />
-</p>
-
-<hr />
-
-<h2>Connect</h2>
+## 🔗 Connect
 
 <p align="center">
   <a href="https://aakashgupta02.is-a.dev">
@@ -91,42 +61,23 @@ frontend purposeful and minimal.
   </a>
 </p>
 
-<hr />
+---
+
+## 🧩 Contributions
 
 <p align="center">
-  Build systems that scale cleanly before they scale visually.
-</p>  </a>
-  <a href="https://linkedin.com/in/aakash-gupta02">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/aakash_gupta02">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:aakash.gupta02@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  </picture>
 </p>
 
 ---
 
-## 💼 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
-</picture>
-
----
+<p align="center">
+  <i>Build systems that scale cleanly before they scale visually.</i>
+</p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/aakash-gupta02">aakash-gupta02</a></i>
+  ⭐ From <a href="https://github.com/aakash-gupta02">aakash-gupta02</a>
 </p>
