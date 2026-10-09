@@ -15,11 +15,6 @@
 
 <br />
 
-<div>
-  <a href="https://aakashgupta02.is-a.dev">
-    <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300" />
-  </a>
-</div>
 
 <table>
   <tr>
@@ -44,12 +39,10 @@
 
 ## 🧩 Contributions
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aakash-gupta02/aakash-gupta02/output/snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aakash-gupta02/aakash-gupta02/output/snake.svg" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+</picture>
 
 ---
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" /> Let's Connect!</h1>
