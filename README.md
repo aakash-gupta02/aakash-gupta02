@@ -3,63 +3,42 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakash-gupta02&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=aakash-gupta02&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" />
   <img src="https://img.shields.io/github/followers/aakash-gupta02?label=Followers&style=social" />
 </p>
 
----
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a65d6dfb-846f-4040-bb31-116fb13d0e26" alt="Banner" width="100%" />
+</div>
 
-## 👋 About Me
+<h1 align="center">Hi there, I'm <a href="https://aakashgupta02.is-a.dev">Aakash Gupta</a> <img height="40" alt="Wave" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-Backend-heavy full-stack developer focused on building **scalable, maintainable systems** using **MERN** and **Next.js**.  
-I prioritize **clean architecture, API design, and data flow**, keeping the frontend minimal and purposeful.
+<br />
 
-- Backend-first mindset
-- Clean architecture & modular systems
-- API-driven development
-- Performance & scalability focused
-
----
-
-## 🧠 Tech Stack
+<div>
+  <a href="https://aakashgupta02.is-a.dev">
+    <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300" />
+  </a>
+</div>
 
 <table>
   <tr>
-    <td valign="top"><strong>Core</strong></td>
-    <td>JavaScript · TypeScript · Node.js · Express.js · React · Next.js · MongoDB</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Backend</strong></td>
-    <td>REST APIs · Auth (JWT / RBAC) · Clean Architecture · Data Modeling · Query Optimization</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Frontend</strong></td>
-    <td>Tailwind CSS · Component-driven UI · Redux · Context API</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Workflow</strong></td>
-    <td>Git · GitHub · Environment Configs · Postman</td>
+    <td width="60%" valign="top">
+      <h2>👋 About Me</h2>
+      <p>Backend-heavy full-stack developer focused on building <b>scalable, maintainable systems</b> using <b>MERN</b> and <b>Next.js</b>.</p>
+      <p>I prioritize <b>clean architecture, API design, and data flow</b>, keeping the frontend minimal and purposeful.</p>
+      <ul>
+        <li>Backend-first mindset</li>
+        <li>Clean architecture & modular systems</li>
+        <li>API-driven development</li>
+        <li>Performance & scalability focused</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=aakash-gupta02&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />
+    </td>
   </tr>
 </table>
-
----
-
-## 🔗 Connect
-
-<p align="center">
-  <a href="https://aakashgupta02.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aakash-gupta-5a337928b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/AakashG99795">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:aakashgupta052004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -67,10 +46,58 @@ I prioritize **clean architecture, API design, and data flow**, keeping the fron
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aakash-gupta02/aakash-gupta02/output/snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aakash-gupta02/aakash-gupta02/output/snake.svg" />
   </picture>
 </p>
+
+---
+<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" /> Let's Connect!</h1>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <a href="https://www.linkedin.com/in/aakash-gupta-5a337928b" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+      </a>
+      <br>LinkedIn
+    </td>
+    <td align="center" width="90">
+      <a href="https://x.com/AakashG99795" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" width="50" />
+      </a>
+      <br>Twitter
+    </td>
+    <td align="center" width="90">
+      <a href="mailto:aakashgupta052004@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+      </a>
+      <br>Gmail
+    </td>
+    <td align="center" width="90">
+      <a href="https://aakashgupta02.is-a.dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vercel" width="50" />
+      </a>
+      <br>Portfolio
+    </td>
+  </tr>
+</table>
+
+---
+
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" /> GitHub Stats</h1>
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakash-gupta02&theme=highcontrast" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aakash-gupta02&theme=highcontrast" />
+<img height="168em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aakash-gupta02&hide=HTML,css,scss&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true" alt="top langs" />
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aakash-gupta02&theme=highcontrast" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aakash-gupta02&hide=HTML,css,scss&layout=donut&theme=highcontrast&hide_border=true" />
+<img height="166em" src="https://github-stats-extended.vercel.app/api?username=aakash-gupta02&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
+
+</div>
+<br>
 
 ---
 
