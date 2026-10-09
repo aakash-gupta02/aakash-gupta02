@@ -7,9 +7,14 @@
   <img src="https://img.shields.io/github/followers/aakash-gupta02?label=Followers&style=social" />
 </p>
 
+<p align="left">
+  <sub><b>My Tech Stack:</b></sub>
+</p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a65d6dfb-846f-4040-bb31-116fb13d0e26" alt="Banner" width="100%" />
 </div>
+
+
 
 <h1 align="center">Hi there, I'm <a href="https://aakashgupta.app">Aakash Gupta</a></h1>
 
