@@ -11,10 +11,9 @@
   <img src="https://github.com/user-attachments/assets/a65d6dfb-846f-4040-bb31-116fb13d0e26" alt="Banner" width="100%" />
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://aakashgupta02.is-a.dev">Aakash Gupta</a> <img height="40" alt="Wave" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://aakashgupta.app">Aakash Gupta</a></h1>
 
 <br />
-
 
 <table>
   <tr>
@@ -39,25 +38,33 @@
 
 ## 🧩 Contributions
 
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aakash-gupta02/aakash-gupta02/output/github-snake-dark.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aakash-gupta02/aakash-gupta02/output/github-snake.svg" />
   </picture>
-
+</p>
 
 ---
+
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" /> Let's Connect!</h1>
 
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <a href="https://www.linkedin.com/in/aakash-gupta-5a337928b" target="_blank">
+      <a href="https://github.com/aakash-gupta02" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="50" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <a href="https://www.linkedin.com/in/aakashgupta02" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
       </a>
       <br>LinkedIn
     </td>
     <td align="center" width="90">
-      <a href="https://x.com/AakashG99795" target="_blank">
+      <a href="https://x.com/aakashgupta_02" target="_blank">
         <img src="https://skillicons.dev/icons?i=twitter" width="50" />
       </a>
       <br>Twitter
@@ -69,7 +76,7 @@
       <br>Gmail
     </td>
     <td align="center" width="90">
-      <a href="https://aakashgupta02.is-a.dev" target="_blank">
+      <a href="https://aakashgupta.app" target="_blank">
         <img src="https://skillicons.dev/icons?i=vercel" width="50" />
       </a>
       <br>Portfolio
