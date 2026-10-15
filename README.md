@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aakash+Gupta;Backend-Heavy+Full-Stack+Developer;MERN+%2B+Next.js+%7C+Clean+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aakash+Gupta;Backend-Focused+Full+Stack+Engineer;Building+Systems%2C+Developer+Tools+%26+AI" />
 </div>
 
 <p align="center">
@@ -7,8 +8,9 @@
   <img src="https://img.shields.io/github/followers/aakash-gupta02?label=Followers&style=social" />
 </p>
 
-<p align="left">
-  <sub><b>My Tech Stack:</b></sub>
+
+<p align="center">
+  <b>Building Systems • Developer Tools • AI-Powered Applications</b>
 </p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a65d6dfb-846f-4040-bb31-116fb13d0e26" alt="Banner" width="100%" />
@@ -23,15 +25,31 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h2>👋 About Me</h2>
-      <p>Backend-heavy full-stack developer focused on building <b>scalable, maintainable systems</b> using <b>MERN</b> and <b>Next.js</b>.</p>
-      <p>I prioritize <b>clean architecture, API design, and data flow</b>, keeping the frontend minimal and purposeful.</p>
-      <ul>
-        <li>Backend-first mindset</li>
-        <li>Clean architecture & modular systems</li>
-        <li>API-driven development</li>
-        <li>Performance & scalability focused</li>
-      </ul>
+<h2>👋 About Me</h2>
+
+<p>
+  I'm a <b>Backend-Focused Full Stack Engineer</b> who enjoys
+  designing and building <b>scalable, maintainable software systems</b>.
+</p>
+
+<p>
+  My work spans backend architecture, API design, database systems,
+  developer tooling, and AI-powered applications.
+  I care about how systems work beneath the UI - from data flow
+  and modular design to reliability and performance.
+</p>
+
+<ul>
+  <li>Backend architecture & API design</li>
+  <li>Scalable systems & database engineering</li>
+  <li>Developer tools & automation</li>
+  <li>AI agents & LLM-powered applications</li>
+</ul>
+
+<p>
+  Outside my day-to-day engineering work, I build independent projects
+  to explore new technologies and turn ideas into working software.
+</p>
     </td>
     <td width="40%" valign="top" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=aakash-gupta02&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />
